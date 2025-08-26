@@ -1,0 +1,24 @@
+{
+  "short_name": "إدارة المخازن",
+  "name": "نظام إدارة المخازن",
+  "description": "تطبيق لإدارة المخازن يمكن تثبيته ويعمل بدون اتصال بالإنترنت.",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "scope": ".",
+  "theme_color": "#007bff",
+  "background_color": "#ffffff"
+}

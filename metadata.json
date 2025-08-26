@@ -1,0 +1,7 @@
+{
+  "description": "A comprehensive PWA for inventory and sales management. Features multi-branch stock tracking, a point-of-sale system with a camera-based barcode scanner, dynamic branch management, and currency selection. All data is saved locally for offline access.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "Copy of App"
+}
